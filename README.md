@@ -1,21 +1,20 @@
 # Stripe Payment
 
-Integrate Stripe Payment in Flutter, make sure do changes of PUBLISH_KEY and SECRET KEY accordingly
+This project is a Flutter application that includes Stripe integration for handling payments and transactions. It provides a seamless and secure way for users to make payments within the app. The project is designed to work on Android devices with a minimum version of 21 or higher.
 
 ## Table of Contents
 - [Description](#description)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Description
-Provide a brief overview of your project and its main features. Mention that it includes Stripe integration.
+The project leverages the power of Flutter and the Stripe payment gateway to facilitate smooth and reliable transactions. It offers a user-friendly interface that allows users to enter their payment details and complete purchases with ease. The integration with Stripe ensures the security of sensitive payment information, providing a safe and trustworthy payment experience.
 
 ## Requirements
-Specify the requirements and dependencies needed to run your project, such as:
+To run this project, you need to have the following dependencies installed:
 
 - Flutter version 3.10.5
 - Dart version 3.0.5
@@ -28,30 +27,22 @@ Specify the requirements and dependencies needed to run your project, such as:
 Explain how to install and set up your project. Include steps like:
 
 1. Clone the repository: `git clone https://github.com/Nabeel-Shehzad/stripe_payment.git`
-2. Change the directory to the project folder: `cd stripe_payment`
+2. Change directory to the project folder: `cd stripe_payment`
 3. Install dependencies: `flutter pub get`
 
 ## Usage
-Provide instructions on how to use your project. Include any necessary configurations or settings. For example:
+To use the project, follow these steps:
 
 1. Open the project in your preferred IDE or editor.
 2. Connect your Android device or emulator.
-3. Run the project: `flutter run`
-
-## Contributing
-Indicate whether you are open to contributions and how people can contribute to your project. You can use the following text as a starting point:
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create a pull request or open an issue. Make sure to follow the guidelines outlined in CONTRIBUTING.md.
+3. Run the project using the command: `flutter run`
 
 ## License
-Specify the license under which your project is distributed. For example:
-
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact
-Provide your contact information so that people can reach out to you. You can include your email, social media handles, or a link to your website. For example:
+For any inquiries or suggestions regarding the project, you can reach out to me through the following channels:
 
 - Website: [nabeelshehzad.com](https://nabeelshehzad.com)
-- Email: nabeelshahzad88@gmail.com
 
 Feel free to contact me if you have any questions or need further assistance.
