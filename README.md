@@ -1,6 +1,6 @@
-# Project Name
+# Stripe Payment
 
-Short description of your project
+Integrate Stripe Payment in Flutter, make sure do changes of PUBLISH_KEY and SECRET KEY accordingly
 
 ## Table of Contents
 - [Description](#description)
@@ -27,8 +27,8 @@ Specify the requirements and dependencies needed to run your project, such as:
 ## Installation
 Explain how to install and set up your project. Include steps like:
 
-1. Clone the repository: `git clone `
-2. Change directory to the project folder: `cd stripe_payment`
+1. Clone the repository: `git clone https://github.com/Nabeel-Shehzad/stripe_payment.git`
+2. Change the directory to the project folder: `cd stripe_payment`
 3. Install dependencies: `flutter pub get`
 
 ## Usage
